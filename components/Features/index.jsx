@@ -19,7 +19,7 @@ function Features() {
 
         <LeftImg>
           <Link href="#contact-form" passHref>
-            <BeginButton>Let's Begin</BeginButton>
+            <BeginButton>Let&apos;s Begin</BeginButton>
           </Link>
         </LeftImg>
 
